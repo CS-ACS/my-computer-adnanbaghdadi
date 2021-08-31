@@ -31,7 +31,7 @@ This laptop has 4 USB type C ports and an audio jack.
 
 ## Commentary
 
-* My relationship with this computer:
+* Our Relationship:
 
 I have had this computer for 5 years, since 2016. I love this computer because it has a lot of highschool memories imbedded into it, not only that but I feel very comfortable with this computer because of how long we have been together. That being said, I have a feeling our time has come to an end. My battery life barely lasts two hours of straight work, and a good chunk of my keys don't work anymore.
 
@@ -39,7 +39,9 @@ I have had this computer for 5 years, since 2016. I love this computer because i
 
 I think that this computer has very good capabilities, and even after five years of heavy usage I still have 200 GB of internal storage and it usually runs very smoothly. My laptop's performance has always been very smooth, although when I have lots of tabs open and I am running a high capacity video game, my laptop will lag and stall. This makes sense considering it only has 8 GB of ram, whereas the newer versions have as much as 32 GB of RAM. I like how thin my laptop is, but, since it is so thin there are only 4 USB-C ports. Taking that into consideration, if I want to project my laptop to a moniter via HDMI I need to use a dongle, which can be annoying at times.
 
-* Picture of my laptop:
+* Pictures:
 
-(file:///Users/adnanbaghdadi/Downloads/IMG-0412.jpg)
+![IMG-0413](https://user-images.githubusercontent.com/89782190/131533985-d45f145e-ad46-4a70-aa90-b9b45ac56787.jpg)
+![IMG-0412](https://user-images.githubusercontent.com/89782190/131534003-4305774e-a0a7-477e-b6a9-95cb07af7212.jpg)
+
 
